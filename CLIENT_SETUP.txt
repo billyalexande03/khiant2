@@ -1,0 +1,10 @@
+CETAKFLOW - KOMPUTER CLIENT
+
+1. Pastikan komputer client terhubung ke Wi-Fi/LAN yang sama dengan PC server.
+2. Cari IPv4 PC server dengan perintah: ipconfig
+3. Buka Chrome/Edge di PC client.
+4. Masukkan: http://IP-SERVER:3000
+   Contoh: http://192.168.1.10:3000
+5. Tidak perlu install Node.js di PC client.
+
+Jika tidak bisa terhubung, pastikan Windows Firewall PC server mengizinkan port TCP 3000.
